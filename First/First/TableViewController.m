@@ -55,7 +55,7 @@
 {
 
     // Return the number of rows in the section.
-  //  NSLog(@"in table view");
+    NSLog(@"in table view");
 
     return 10;
 }
